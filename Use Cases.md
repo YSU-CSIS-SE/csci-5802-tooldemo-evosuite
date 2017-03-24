@@ -1,0 +1,2 @@
+# Use Cases for EvoSuite
+EvoSuite provides automatic test generation for Java projects.  One of the key uses for automatic test generation is regression testing--that is, ensuring that the various classes and methods in the software continue to behave as they did when the tests were generated.  It is worth noting, however, that existing bugs in the software will not be exposed with these automatically generated tests.
