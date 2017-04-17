@@ -8,5 +8,7 @@ Run: To run you would start the program as you normally would as the tests were 
 
 Use:
 
+Evaluation: Easy to learn - It is pretty easy to learn since there are multiple tutorials for evosuite so it scores pretty well here.
+            Platforms     - Including the use of command line it has a total of 4 platforms to perform with which is pretty good but there are still systems that do not use it.
 
 For more information visit http://www.evosuite.org/evosuite/
