@@ -1,1 +1,1 @@
-
+Easy to learn - It is pretty easy to learn since there are multiple tutorials for evosuite so it scores pretty well here. Platforms - Including the use of command line it has a total of 4 platforms to perform with which is pretty good but there are still systems that do not use it. Usage - Evosuite is limited to only being used in Java and even then it is limited on what it is used on but still it does what it is supposed to.
