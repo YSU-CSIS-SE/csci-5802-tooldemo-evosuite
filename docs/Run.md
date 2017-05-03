@@ -1,1 +1,0 @@
-To run evosuite for each system is quite different but can be easy. For maven once you are done configuring then run the project. Intellij you simpy go to project and pick run evosuite. Eclipse . And for the command line use the command java -jar evosuite.jar [options] with target can be a class,class path entry or package prefix.
